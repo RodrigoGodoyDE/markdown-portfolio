@@ -1,5 +1,10 @@
-To Do | Description
+```To Do | Description
 -|-
+algo | primero
+otro | segundo
+code | `esto es un code`
+```
+
 - [ ] Learn Deutsch 
 - [x] Learn Git :sparkle:
 - [ ] Learn Terraform :thumbsup:
