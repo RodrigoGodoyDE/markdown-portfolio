@@ -1,4 +1,4 @@
-
+#### H4: Markdown
 To Do | Description
 -|-
 algo | primero
@@ -19,8 +19,10 @@ code -> `esto es un code`
     - Study Grammar
     - Book a Termin
 
+@rodrigogodoy.de eres ~~bueno~~ *MUY BUENO*
 
 ```Markdown
+#### H4: Markdown
 To Do | Description
 -|-
 algo | primero
@@ -40,4 +42,7 @@ code -> `esto es un code`
     - Do exercices
     - Study Grammar
     - Book a Termin
+
+@rodrigogodoy.de eres ~~bueno~~ *MUY BUENO*
+
 ```
