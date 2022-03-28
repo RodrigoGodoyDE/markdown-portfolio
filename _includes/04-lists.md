@@ -2,8 +2,9 @@
 -|-
 algo | primero
 otro | segundo
-code | `esto es un code`
 ```
+
+code | `esto es un code`
 
 - [ ] Learn Deutsch 
 - [x] Learn Git :sparkle:
