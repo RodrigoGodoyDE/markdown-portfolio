@@ -1,8 +1,8 @@
 To Do | Description
 -|-
-- [] Learn Deutsch 
+- [ ] Learn Deutsch 
 - [x] Learn Git :sparkle:
-- [] Learn Terraform :thumbsup:
+- [ ] Learn Terraform :thumbsup:
 
 1. Use **Cancom** Portal
     1. Do exercices
