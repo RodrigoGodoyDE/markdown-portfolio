@@ -1,9 +1,8 @@
-```
+
 To Do | Description
 -|-
 algo | primero
 otro | segundo
-```
 
 code | `esto es un code`
 
