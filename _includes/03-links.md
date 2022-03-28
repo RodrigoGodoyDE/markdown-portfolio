@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[To VHS](https://www.vhs-bayreuth.de/)
